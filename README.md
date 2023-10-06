@@ -79,7 +79,7 @@ A live demo of the project can be accessed [here](https://interactive-note-takin
 
 ## APP Screen shot 🖼️
 
-![Screen-shot](./public/assets/images/Note-taking-Demo.gif)
+![Screen-shot](./public/assets/images/Note-taking-gif.gif)
 
 ## License & Contribution 📜
 
