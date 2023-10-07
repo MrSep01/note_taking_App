@@ -12,7 +12,7 @@ The Interactive Note-Taking App aims to offer users a simple, yet effective, way
 
 - Deliver a user-friendly interface.
 - Provide note creation, editing, and deletion capabilities.
-- Focus on mobile-readiness and overall user experience.
+Focus on mobile readiness and overall user experience.
 
 ## Features 📝
 
@@ -68,7 +68,9 @@ A responsive and clean interface has been created to enhance user experience.
 - Clone the repository
 - open terminal 
 - run npm i to update all the required dependencies 
-- open the HTML file in a browser, and start taking notes as needed.
+- run npm start to start the application on your local machine 
+- navigate to http://localhost:3001 
+- Start taking notes 
 
 ## Conclusion 🏁
 
@@ -78,9 +80,9 @@ This Note-Taking App serves as an efficient platform for managing textual inform
 https://github.com/MrSep01/note_taking_App
 
 ## Live Demo 🌐
-A live demo of the project can be accessed [here](https://interactive-note-taking-app-3f98291bce84.herokuapp.com/).
+A live demo of the project hosted on [Heroku](https://www.heroku.com) can be accessed [here](https://interactive-note-taking-app-3f98291bce84.herokuapp.com/).
 
-## APP Screen shot 🖼️
+## APP Screenshot 🖼️
 
 ![Screen-shot](./public/assets/images/Note-taking-gif.gif)
 
