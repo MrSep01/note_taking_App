@@ -65,14 +65,17 @@ A responsive and clean interface has been created to enhance user experience.
 
 ## How to Use the Project 🖥️
 
-Clone the repository, open the HTML file in a browser, and start taking notes as needed.
+- Clone the repository
+- open terminal 
+- run npm i to update all the required dependencies 
+- open the HTML file in a browser, and start taking notes as needed.
 
 ## Conclusion 🏁
 
 This Note-Taking App serves as an efficient platform for managing textual information. Feel free to explore and contribute to the codebase.
 
 ## Repository
-https://github.com/MrSep01/Interactive_Coding_Quiz
+https://github.com/MrSep01/note_taking_App
 
 ## Live Demo 🌐
 A live demo of the project can be accessed [here](https://interactive-note-taking-app-3f98291bce84.herokuapp.com/).
